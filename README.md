@@ -2,6 +2,8 @@
 
 Diyetisyen/fizyoterapist için kişiye özel beslenme danışmanlığı tanıtım ve randevu sitesi. İlerleme takibi, hizmetler ve sonuçlar bölümlerini içeren React uygulaması, FastAPI backend ile birlikte.
 
+**Canlı:** https://d156hxen0v55yq.cloudfront.net
+
 ![Screenshot](docs/screenshot.png)
 
 ## Tech Stack
