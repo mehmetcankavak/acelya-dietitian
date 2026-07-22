@@ -1,11 +1,21 @@
+# Açelya Çetin — Diyetisyen & Fizyoterapist Portal
 
-  # Dietitian Nutritionist Portal UI
+Diyetisyen/fizyoterapist için kişiye özel beslenme danışmanlığı tanıtım ve randevu sitesi. İlerleme takibi, hizmetler ve sonuçlar bölümlerini içeren React uygulaması, FastAPI backend ile birlikte.
 
-  This is a code bundle for Dietitian Nutritionist Portal UI. The original project is available at https://www.figma.com/design/WrCYcx7neJSJMk8GioYw1F/Dietitian-Nutritionist-Portal-UI.
+![Screenshot](docs/screenshot.png)
 
-  ## Running the code
+## Tech Stack
 
-  Run `npm i` to install the dependencies.
+- Frontend: React + Vite + TypeScript, Tailwind CSS, shadcn/ui
+- Backend: `backend/` (FastAPI)
+- Altyapı: Terraform ile AWS (EC2, RDS, CloudFront) — `terraform/`
 
-  Run `npm run dev` to start the development server.
-  
+## Proje Hakkında
+
+Freelance müşteri projesi. Figma tasarımından üretilen kod tabanı, backend ve AWS altyapısıyla birlikte bu repoda geliştirilip son haline getirilmiştir.
+
+## Running the code
+
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
